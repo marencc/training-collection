@@ -198,7 +198,7 @@ Below you'll find a curated list of **bioinformatics training material**. All ma
 - [**Danielle Navarro** djnavarro/rbook](https://github.com/djnavarro/rbook) | [website](https://learningstatisticswithr.com)
 - [**Duke Department of Statistical Science** DukeStatSci/introds](https://github.com/DukeStatSci/introds) | [website](https://introds-duke.netlify.app)
 - [**Hadley Wickham** hadley/adv-r](https://github.com/hadley/adv-r) | [website](http://adv-r.hadley.nz)
-- [**Hadley Wickham** hadley/r4ds](https://github.com/hadley/r4ds) | [website](http://r4ds.hadley.nz)
+- [**Hadley Wickham** hadley/r4ds](https://github.com/hadley/r4ds) | [website](https://r4ds.hadley.nz)
 - [**Teaching materials at the Harvard Chan Bioinformatics Core** hbctraining/Intro-to-R-flipped](https://github.com/hbctraining/Intro-to-R-flipped) | [website](https://hbctraining.github.io/Intro-to-R-flipped/)
 - [**ICS 80 - Introduction to Data Science** ics80-fa21/website](https://github.com/ics80-fa21/website) | [website](https://ics80-fa21.github.io/website/)
 - [**Introduction to Data Science - 2020 - Semester 1** ids-s1-20/website](https://github.com/ids-s1-20/website) | [website](https://introds.org)
